@@ -1,0 +1,5 @@
+/Users/loganharrison/Desktop/School/Object Oriented Des/CSharp-Language-Basics/CSharp-Language-Basics/bin/Debug/CSharp-Language-Basics.exe
+/Users/loganharrison/Desktop/School/Object Oriented Des/CSharp-Language-Basics/CSharp-Language-Basics/bin/Debug/CSharp-Language-Basics.pdb
+/Users/loganharrison/Desktop/School/Object Oriented Des/CSharp-Language-Basics/CSharp-Language-Basics/obj/x86/Debug/CSharp-Language-Basics.csproj.CoreCompileInputs.cache
+/Users/loganharrison/Desktop/School/Object Oriented Des/CSharp-Language-Basics/CSharp-Language-Basics/obj/x86/Debug/CSharp-Language-Basics.exe
+/Users/loganharrison/Desktop/School/Object Oriented Des/CSharp-Language-Basics/CSharp-Language-Basics/obj/x86/Debug/CSharp-Language-Basics.pdb
